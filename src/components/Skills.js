@@ -4,7 +4,7 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-import nextjs from "../assets/nextjs.png";
+import nodejs from "../assets/nodejs.png";
 import mongodb from "../assets/mongodb.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
@@ -44,16 +44,16 @@ const Experience = () => {
     },
     {
       id: 6,
-      src: nextjs,
-      title: "Next JS",
-      style: "shadow-white",
+      src: nodejs,
+      title: "Node JS",
+      style: "shadow-lime-400",
     },
-//     {
-//       id: 7,
-//       src: mongodb,
-//       title: "MongoDB",
-//       style: "shadow-pink-400",
-//     },
+    {
+      id: 7,
+      src: mongodb,
+      title: "MongoDB",
+      style: "shadow-pink-400",
+    },
     {
       id: 8,
       src: github,
