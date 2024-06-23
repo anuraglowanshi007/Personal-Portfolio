@@ -87,14 +87,14 @@ const Portfolio = () => {
       //Ecommerce
       id: 1,
       src: arrayDestruct,
-      demoLink: "https://e-commerce-nc5f0hjpo-anurag-lowanshis-projects.vercel.app/",
+      demoLink: "https://e-commerce-lake-seven-44.vercel.app/",
       codeLink: "https://github.com/anuraglowanshi007/E-commerce.git"
     },
     {  
       //parallax
       id: 2,
       src: reactParallax,
-      demoLink: "https://parallax-website-962a3upry-anurag-lowanshis-projects.vercel.app/",
+      demoLink: "https://parallax-website-rho.vercel.app/",
       codeLink: "Uhttps://github.com/anuraglowanshi007/parallax-website.git"
     },
     {  
@@ -115,14 +115,14 @@ const Portfolio = () => {
       //bussiness card 
       id: 5,
       src: installNode,
-      demoLink: "https://bussiness-card-9fxup25yh-anurag-lowanshis-projects.vercel.app/",
-      codeLink: "https://github.com/anuraglowanshi007/TicTacToe.git"
+      demoLink: "https://bussiness-card-roan.vercel.app/",
+      codeLink: "https://github.com/anuraglowanshi007/BussinessCard.git"
     },
     {
       //weather app
       id: 6,
       src: reactWeather,
-      demoLink: "https://weather-9xuj970nm-anurag-lowanshis-projects.vercel.app/",
+      demoLink: "https://weather-app-ruddy-eta.vercel.app/",
       codeLink: "https://github.com/anuraglowanshi007/Weather-app"
     },
   ];
