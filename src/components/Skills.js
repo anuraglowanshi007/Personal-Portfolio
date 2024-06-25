@@ -6,6 +6,7 @@ import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 import nodejs from "../assets/nodejs.png";
 import mongodb from "../assets/mongodb.png";
+import expressjs from "../assets/expressjs.png"
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
 
@@ -50,12 +51,18 @@ const Experience = () => {
     },
     {
       id: 7,
-      src: mongodb,
-      title: "MongoDB",
-      style: "shadow-pink-400",
+      src: expressjs,
+      title: "Express Js",
+      style: "shadow-gray-300",
     },
     {
       id: 8,
+      src: mongodb,
+      title: "Mongo DB",
+      style: "shadow-lime-400",
+    },
+    {
+      id: 9,
       src: github,
       title: "GitHub",
       style: "shadow-gray-400",

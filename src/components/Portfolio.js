@@ -83,26 +83,28 @@ import reactWeather from "../assets/portfolio/reactWeather.jpg";
 
 const Portfolio = () => {
   const portfolios = [
+    {  
+      //crypto verse
+      id: 1,
+      src: navbar,
+      demoLink: "https://crypto-verse-rho.vercel.app/",
+      codeLink: "https://github.com/anuraglowanshi007/CryptoVerse.git"
+    },
+   
+    
     {
       //Ecommerce
-      id: 1,
+      id: 2,
       src: arrayDestruct,
       demoLink: "https://e-commerce-lake-seven-44.vercel.app/",
       codeLink: "https://github.com/anuraglowanshi007/E-commerce.git"
     },
     {  
       //parallax
-      id: 2,
+      id: 3,
       src: reactParallax,
       demoLink: "https://parallax-website-rho.vercel.app/",
       codeLink: "Uhttps://github.com/anuraglowanshi007/parallax-website.git"
-    },
-    {  
-      //crypto verse
-      id: 3,
-      src: navbar,
-      demoLink: "https://crypto-verse-rho.vercel.app/",
-      codeLink: "https://github.com/anuraglowanshi007/CryptoVerse.git"
     },
     {
       //profile viewers
